@@ -196,10 +196,30 @@ public class Week02BooleanConditionalsLoopsLab {
 					i--;
 					System.out.println(i % 3);
 				}
+				
+				
+				String name = "Tommy";
+
+				  int age2 = 52;
+
+				  if (name == "Tommy") {
+
+				    System.out.println("Hi, Tommy!");
+
+				  } else if (age2 == 52) {
+
+				    System.out.println("52 years old.");
+
+				  }
+
+				  System.out.println("Out of conditional.");
+
+				}
+
 
 		
 
 
 	}
 
-}
+
